@@ -9,3 +9,4 @@ faiss-gpu
 transformers 
 sentence-transformers 
 nltk 
+pandas
